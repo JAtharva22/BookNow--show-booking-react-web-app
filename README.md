@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-This is a basic react based responsive web application with components like navbar, buttons, placeholders, forms styled using bootstrap used to book shows
+This is a basic react based responsive web application with components like navbar, buttons, placeholders, forms styled using bootstrap used to book shows by fetching the show informartion from an API
 
 
 https://github.com/JAtharva22/BookNow--show-booking-react-web-app/assets/93152317/57a557ad-03eb-4d20-9d0b-ab12bfa0ec2f
