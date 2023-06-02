@@ -1,6 +1,24 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a basic react based responsive web application with components like navbar, buttons, placeholders, forms styled using bootstrap used to book shows
+
+
+https://github.com/JAtharva22/BookNow--show-booking-react-web-app/assets/93152317/57a557ad-03eb-4d20-9d0b-ab12bfa0ec2f
+
+
+![Screenshot (35)](https://github.com/JAtharva22/BookNow--show-booking-react-web-app/assets/93152317/e8590c40-5c5c-4488-998d-fd0ef2eb2806)
+![Screenshot (37)](https://github.com/JAtharva22/BookNow--show-booking-react-web-app/assets/93152317/7968cf93-07c1-4bc8-9b1d-f27e756ad3ac)
+![Screenshot 2023-06-02 164959](https://github.com/JAtharva22/BookNow--show-booking-react-web-app/assets/93152317/2691a45e-c1f3-4e4b-beb8-d50f9f7769e0)
+![Screenshot 2023-06-02 165041](https://github.com/JAtharva22/BookNow--show-booking-react-web-app/assets/93152317/2a06536c-8e8d-44ed-bec0-d394ac57ba05)
+![Screenshot 2023-06-02 165247](https://github.com/JAtharva22/BookNow--show-booking-react-web-app/assets/93152317/108aa400-f3a8-4cda-a0f5-743b097075fd)
+![Screenshot 2023-06-02 165308](https://github.com/JAtharva22/BookNow--show-booking-react-web-app/assets/93152317/0d220804-7eb8-4cb2-91b0-145853d27b2a)
+![Screenshot 2023-06-02 165322](https://github.com/JAtharva22/BookNow--show-booking-react-web-app/assets/93152317/509f9152-862a-40c0-a5fb-f332def62fcb)
+![Screenshot 2023-06-02 165714](https://github.com/JAtharva22/BookNow--show-booking-react-web-app/assets/93152317/25c35399-cf3b-4a20-ac86-84b58a4a7945)
+![Screenshot 2023-06-02 165738](https://github.com/JAtharva22/BookNow--show-booking-react-web-app/assets/93152317/95f381c2-21c7-4002-ad36-b5cb8e17b210)
+![Screenshot 2023-06-02 165754](https://github.com/JAtharva22/BookNow--show-booking-react-web-app/assets/93152317/7af297b9-bb8b-4015-af66-859ba0a4fd85)
+
+
 
 ## Available Scripts
 
